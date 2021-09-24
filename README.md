@@ -1,10 +1,13 @@
 ## Python Tic Tac Toe Game 
+<html>
+<head>
 <style>
-  .img {
+  img {
     align:left;
   }
 </style>
-
+</head>
+<body> 
 <img src='https://github.com/GH0STH4CKER/TicTacToe_Python/blob/main/images/player1_won_board.png' width='400'/></div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src='https://github.com/GH0STH4CKER/TicTacToe_Python/blob/main/images/player1_won_msgbox.png' width='250'/>
 </br>
 
@@ -12,3 +15,5 @@
 </br>
 
 <img src='https://github.com/GH0STH4CKER/TicTacToe_Python/blob/main/images/match_draw_board.png' width='400'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src='https://github.com/GH0STH4CKER/TicTacToe_Python/blob/main/images/match_draw_msgbox.png' width='250'>
+</body>
+</html>
