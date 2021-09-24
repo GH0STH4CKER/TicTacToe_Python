@@ -44,7 +44,7 @@ bu9.config(command=lambda: ButtonClick(9))
 playerturn=ttk.Label(root,text="   Player 1 turn!  ")
 playerturn.grid(row=3,column=0,sticky='snew',ipadx=40,ipady=40)
 
-playerdetails=ttk.Label(root,text="    Player 1 is X\n\n    Player 2 is O")
+playerdetails=ttk.Label(root,text="    Player 1 is ✖\n    Player 2 is Ｏ")
 playerdetails.grid(row=3,column=2,sticky='snew',ipadx=40,ipady=40)
 
 res=ttk.Button(root,text='Restart')
