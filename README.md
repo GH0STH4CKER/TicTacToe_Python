@@ -1,5 +1,3 @@
-## Python Tic Tac Toe Game 
-
 ## Player 1 Win :
 <img src='https://github.com/GH0STH4CKER/TicTacToe_Python/blob/main/images/player1_won_board.png' width='400'/></div><img src='https://github.com/GH0STH4CKER/TicTacToe_Python/blob/main/images/player1_won_msgbox.png' align='right' width='250'/>
 </br>
@@ -8,3 +6,5 @@
 </br>
 ## Match Draw :
 <img src='https://github.com/GH0STH4CKER/TicTacToe_Python/blob/main/images/match_draw_board.png' width='400'><img src='https://github.com/GH0STH4CKER/TicTacToe_Python/blob/main/images/match_draw_msgbox.png' align='right' width='250'>
+
+<h3>Got the basic idea from <a href='https://github.com/krishkamani/Tic-Tac-Toe-Game-In-Python' alt='github'>krishkamani/Tic-Tac-Toe-Game-In-Python</a></h3>
