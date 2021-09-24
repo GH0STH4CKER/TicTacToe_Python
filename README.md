@@ -1,4 +1,9 @@
 ## Python Tic Tac Toe Game 
+<style>
+  .img {
+    align:left;
+  }
+</style>
 
 <img src='https://github.com/GH0STH4CKER/TicTacToe_Python/blob/main/images/player1_won_board.png' width='400'/></div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src='https://github.com/GH0STH4CKER/TicTacToe_Python/blob/main/images/player1_won_msgbox.png' width='250'/>
 </br>
