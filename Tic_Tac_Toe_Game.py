@@ -6,7 +6,7 @@ root=Tk()
 root.title("Tic Tac Toe")
 #root.geometry("487x544")
 
-img1 = Image.open(r"C:\Users\Dimuth De Zoysa\Desktop\Python_projects\ticcircle1.png")
+img1 = Image.open(r"images\ticcircle1.png")
 img1 = img1.resize((140,139), Image.ANTIALIAS)
 tick_circle = ImageTk.PhotoImage(img1)
 
