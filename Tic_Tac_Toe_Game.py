@@ -10,15 +10,15 @@ img1 = Image.open(r"C:\Users\Dimuth De Zoysa\Desktop\Python_projects\ticcircle1.
 img1 = img1.resize((140,139), Image.ANTIALIAS)
 tick_circle = ImageTk.PhotoImage(img1)
 
-img2 = Image.open(r"C:\Users\Dimuth De Zoysa\Desktop\Python_projects\ticcross1.png")
+img2 = Image.open(r"images\ticcross1.png")
 img2 = img2.resize((146,145), Image.ANTIALIAS)
 tick_cross = ImageTk.PhotoImage(img2)
 
-img3 = Image.open(r"C:\Users\Dimuth De Zoysa\Desktop\Python_projects\ticempty.png")
+img3 = Image.open(r"images\ticempty.png")
 img3 = img3.resize((150,150), Image.ANTIALIAS)
 tick_none = ImageTk.PhotoImage(img3)
 
-img4 = Image.open(r"C:\Users\Dimuth De Zoysa\Desktop\Python_projects\refresh.png")
+img4 = Image.open(r"images\refresh.png")
 img4 = img4.resize((30,30), Image.ANTIALIAS)
 restart_img = ImageTk.PhotoImage(img4)
 
